@@ -3,7 +3,6 @@ Pod::Spec.new do |s|
   s.version       = '0.1'
   s.platform      = :ios
   s.author        = { 'Bytelee' => 'liwei@brainpage.com' }
-  s.license       = { :type => 'MIT', :file => 'License.txt' }
   s.homepage      = 'git@github.com:spire-inc/TKAlertCenter.git'
   s.summary       = 'an light alert view lib for ios'
   s.description   = 'This is a light alert center for ios. the codes separate from TapkuLibrary'
